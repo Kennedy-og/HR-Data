@@ -31,6 +31,7 @@ the dashboard provides a broad and interactive perspective on how workforce char
 - Improve analytical communication using visual insights.
 
 ---
+## Dashboard Screenshot
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/091b7dc8-d43a-4b30-b36e-18bae6e99792" />
 
 <img width="1113" height="578" alt="image" src="https://github.com/user-attachments/assets/8b1b946a-9db7-42ba-9477-6332978414b4" />
